@@ -1,0 +1,4 @@
+include ':MyModule'
+include ':Java'
+include ':app'
+rootProject.name = "MyReferanceTest"
